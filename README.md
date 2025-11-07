@@ -1,8 +1,19 @@
-# CUSTOMER-RETENTION
-Customer Retention Dashboard
-The organisation is keen to know the possible customers who are likely to churn.
-In this Dashboard, we create KPIs around demographics, company service and customer profiling to know which of them have
-the highest chance of getting churned. The analysis depicts some key insights that will help the board member take steps in future to
-reduce the churning rate and increase customer loyalty.
+
+
+#  Customer Retention Dashboard
+
+The organization aimed to identify customers who are likely to churn.
+This dashboard provides **key insights** into churn patterns using **Power BI**, focusing on customer demographics, service usage, and profiling metrics.
+
+###  Overview
+
+* Built KPIs around **demographics**, **company service**, and **customer profiling**.
+* Highlighted customers with the **highest churn probability**.
+* Delivered insights to help decision-makers **reduce churn rate** and **enhance loyalty**.
+
+###  Dashboard Pages
+
+[Page 1](https://github.com/AlaaElnakeeb81536/CUSTOMER-RETENTION/blob/main/Page1.jpg)
+[Page 2](https://github.com/AlaaElnakeeb81536/CUSTOMER-RETENTION/blob/main/Page2.jpg)
 
 
